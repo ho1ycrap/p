@@ -1,0 +1,11 @@
+{
+	"name":"ho1ycrap/p",
+	"description":"ddffdfdfdf",
+	"autoload":{
+		
+			"files":[
+				"tools.php"
+			]
+		
+	}
+}
